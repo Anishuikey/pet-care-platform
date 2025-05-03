@@ -1,0 +1,21 @@
+# Node modules (agar aap Node.js ka project bana rahe ho)
+node_modules/
+
+# Environment file (isme secrets hote hain, jaise MongoDB URI, API keys)
+.env
+
+# Logs
+logs/
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build folders
+dist/
+build/
+
+# IDE files
+.vscode/
+.idea/
